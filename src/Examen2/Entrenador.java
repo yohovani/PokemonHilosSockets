@@ -7,7 +7,7 @@ package Examen2;
 
 /**
  *
- * @author Yohovani Vargas
+ * @author YohovaniVargas
  */
 public class Entrenador {
 	private String nombre;

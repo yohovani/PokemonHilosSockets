@@ -17,7 +17,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author smonreal
+ * @author YohovaniVargas
  */
 public class PokeServidorTCP implements Runnable{
     private Socket client,client2;

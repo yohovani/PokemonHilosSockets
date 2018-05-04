@@ -10,7 +10,7 @@ import java.util.Random;
 
 /**
  *
- * @author Yohovani Vargas
+ * @author YohovaniVargas
  */
 public class Pokemon {
 	final private String[] pokemons={"normal","fuego","agua","volador","eléctrico","planta","roca","hielo",

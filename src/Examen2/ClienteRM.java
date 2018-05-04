@@ -13,7 +13,7 @@ import java.net.Socket;
 
 /**
  *
- * @author smonreal
+ * @author YohovaniVargas
  */
 public class ClienteRM implements Runnable{
     private Socket client;
